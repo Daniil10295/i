@@ -1,1 +1,2 @@
+<DOCTYPE markdown>
 *1*
