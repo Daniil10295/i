@@ -1,2 +1,0 @@
-<DOCTYPE markdown>
-*1*
